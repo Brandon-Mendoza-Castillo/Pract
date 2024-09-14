@@ -1,3 +1,4 @@
+//repocitorio en lenguaje c++ - automata_palabras_correctas
 #include <stdio.h>
 #include <ctype.h>
 
